@@ -92,7 +92,7 @@ We converted score below 3 as negative and score above 3 as positive review. The
 
   <img src="img/xgboost.PNG" alt="workflow" width="70%">
 
-* [Click here to run it live on server](https://movie-recommendation12.herokuapp.com/)
+* [Click here to run it live on server](https://amazon-food.herokuapp.com/)
 
 # How to run?
 Clone the repository
